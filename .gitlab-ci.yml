@@ -15,4 +15,3 @@ build:
   only:
     - tags
     - master
-    - ci
